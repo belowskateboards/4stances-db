@@ -29,7 +29,7 @@ do {
         let currentPath = fileManager.currentDirectoryPath
         let rootPath = currentPath + "/../"
         let fileName = "data.json"
-        let filePath = currentPath + rootPath + fileName
+        let filePath = rootPath + fileName
         if let url = URL(string: "file:///" + filePath) {
             do {
                 let existing = try Data(contentsOf: url)
@@ -48,7 +48,9 @@ do {
         }
         print("Changes detected. Write new file.")
         try string.write(toFile: filePath, atomically: true, encoding: .utf8)
+        print("Commit changes...")
         try commitChanges(path: rootPath, fileName: fileName)
+        print("Done.")
     } else {
         throw ConvertError.couldNotConvertDataToString
     }
