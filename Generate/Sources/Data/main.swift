@@ -46,7 +46,7 @@ do {
         } else {
             throw ConvertError.invalidURL(filePath)
         }
-        print("Changes detected. Write new file.")
+        print("Changes detected. Writing new file.")
         try string.write(toFile: filePath, atomically: true, encoding: .utf8)
         print("Commit changes...")
         try commitChanges(path: rootPath, fileName: fileName)
