@@ -12,6 +12,8 @@ jobs:
     steps: 
       - name: Check out data
         uses: actions/checkout@v3
+      - name: Go to directory
+        uses: cd Generate
       - name: Build
         run: swift build
       - name: Run
