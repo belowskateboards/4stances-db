@@ -24,6 +24,8 @@ class TrickRepository {
             Trick(id: 20, name: "FS 360 Pop Shove It"),
             Trick(id: 21, name: "Ollie FS Bodyvarial"),
             Trick(id: 22, name: "Casperflip"),
+            Trick(id: 23, name: "360 BS Shove It"),
+            Trick(id: 24, name: "Alfaflip"),
         ]
     }
 }
