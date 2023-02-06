@@ -22,7 +22,7 @@ class LocationRepository {
             Location(id: 18, spot: "Le miroir d'eau", city: "Bordeaux", country: "France"),
             Location(id: 19, spot: "Rollschuppen", city: "Arzberg", country: "Germany"),
             Location(id: 20, spot: "Macba", city: "Barcelona", country: "Spain"),
-            Location(id: 21, spot: "Basketball Court", city: "Grafenwöhr", country: "Germany"),
+            Location(id: 21, spot: "Freibad", city: "Grafenwöhr", country: "Germany"),
             Location(id: 22, spot: "iHřiště Škoda Sport Park", city: "Plzeň", country: "Czechia"),
             Location(id: 23, spot: "Oakdale Skatepark", city: "Oakdale, Blackwood", country: "Wales"),
         ]
