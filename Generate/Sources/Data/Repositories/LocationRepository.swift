@@ -26,6 +26,7 @@ class LocationRepository {
             Location(id: 22, spot: "iHřiště Škoda Sport Park", city: "Plzeň", country: "Czechia"),
             Location(id: 23, spot: "Oakdale Skatepark", city: "Oakdale, Blackwood", country: "Wales"),
             Location(id: 24, spot: "Landhausplaza", city: "Innsbruck", country: "Germany"),
+            Location(id: 25, spot: "Paper Bridge Park", city: "Hanoi", country: "Vietnam"),
         ]
     }
 }
