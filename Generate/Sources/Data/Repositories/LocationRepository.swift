@@ -5,7 +5,7 @@ class LocationRepository {
             Location(id: 1, spot: "Bucht", city: "Berlin", country: "Germany"),
             Location(id: 2, spot: "Vogelfreiheit", city: "Berlin", country: "Germany"),
             Location(id: 3, spot: "Hafenpark", city: "Frankfurt", country: "Germany"),
-            Location(id: 4, spot: "Southbank", city: "London", country: "United Kingdom"),
+            Location(id: 4, spot: "Southbank", city: "London", country: "England"),
             Location(id: 5, spot: nil, city: "Weil am Rhein", country: "Germany"),
             Location(id: 6, spot: "Hasenheide", city: "Berlin", country: "Germany"),
             Location(id: 7, spot: "Anthony Huber Skatepark", city: "Berlin", country: "Germany"),
