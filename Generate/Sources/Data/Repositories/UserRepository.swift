@@ -44,6 +44,8 @@ class UserRepository {
             User(id: 40, name: "Jason Beecham", instagram: "jason.beecham", stance: .goofy),
             User(id: 41, name: "Viên Đình Cường", instagram: "vdc.sk8", stance: .goofy),
             User(id: 42, name: "Nguyễn Đức Nam", instagram: "_mam_dn"),
+            User(id: 43, instagram: "kundoporro_"),
+            User(id: 44, instagram: "enzoozappulla"),
         ]
     }
 }
