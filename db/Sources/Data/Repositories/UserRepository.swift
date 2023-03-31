@@ -46,6 +46,7 @@ class UserRepository {
             User(id: 42, name: "Nguyễn Đức Nam", instagram: "_mam_dn"),
             User(id: 43, instagram: "kundoporro_", stance: .regular),
             User(id: 44, instagram: "enzoozappulla"),
+            User(id: 45, instagram: "lenny_hfr"),
         ]
     }
 }

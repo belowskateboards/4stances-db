@@ -27,6 +27,7 @@ class LocationRepository {
             Location(id: 23, spot: "Oakdale Skatepark", city: "Oakdale, Blackwood", country: "Wales"),
             Location(id: 24, spot: "Landhausplaza", city: "Innsbruck", country: "Germany"),
             Location(id: 25, spot: "Paper Bridge Park", city: "Hanoi", country: "Vietnam"),
+            Location(id: 26, spot: "Skatepark Bückeburg", city: "Bückeburg", country: "Germany"),
         ]
     }
 }
