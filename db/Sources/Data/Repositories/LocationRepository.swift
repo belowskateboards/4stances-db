@@ -28,6 +28,8 @@ class LocationRepository {
             Location(id: 24, spot: "Landhausplaza", city: "Innsbruck", country: "Germany"),
             Location(id: 25, spot: "Paper Bridge Park", city: "Hanoi", country: "Vietnam"),
             Location(id: 26, spot: "Skatepark Bückeburg", city: "Bückeburg", country: "Germany"),
+            Location(id: 27, spot: nil, city: "Eindhoven", country: "Netherlands"),
+            Location(id: 28, spot: nil, city: "Bad Nenndorf", country: "Germany"),
         ]
     }
 }

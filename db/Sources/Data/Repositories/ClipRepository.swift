@@ -42,7 +42,9 @@ class ClipRepository {
             Clip(id: 36,    trick: 1,   skater: 27, filmer: 27, location: 24,   date: "20.03.2023"),
             Clip(id: 37,    trick: 25,  skater: 30, filmer: 30, location: 17,   date: "27.03.2023"),
             Clip(id: 38,    trick: 22,  skater: 43, filmer: 44, location: 20,   date: "03.04.2023"),
-            Clip(id: 39,    trick: 3,   skater: 24, filmer: 45, location: 26,   date: "10.04.2023", tags: [.belowSkateboards, .oneLine]),
+            Clip(id: 39,    trick: 3,   skater: 24, filmer: 45, location: 26,   date: "11.04.2023", tags: [.belowSkateboards, .oneLine]),
+            Clip(id: 40,    trick: 19,  skater: 46, filmer: 46, location: 27,   date: "17.04.2023"),
+            Clip(id: 41,    trick: 8,   skater: 47, filmer: 48, location: 28,   date: "24.04.2023"),
         ]
     }
 }
