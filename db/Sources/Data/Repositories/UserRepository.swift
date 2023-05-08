@@ -50,6 +50,8 @@ class UserRepository {
             User(id: 46, name: "Tom Bos", instagram: "tomisboos", stance: .regular),
             User(id: 47, name: "Cedric Flamme", instagram: "skateschuleflamme", stance: .goofy),
             User(id: 48, instagram: "alex00r"),
+            User(id: 49, name: "Rizik Hweidi", instagram: "rizik1994", stance: .goofy),
+            User(id: 50, name: "Marek Lück", instagram: "luecklich_", stance: .regular)
         ]
     }
 }
