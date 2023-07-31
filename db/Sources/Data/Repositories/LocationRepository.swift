@@ -30,6 +30,8 @@ class LocationRepository {
             Location(id: 26, spot: "Skatepark Bückeburg", city: "Bückeburg", country: "Germany"),
             Location(id: 27, spot: nil, city: "Eindhoven", country: "Netherlands"),
             Location(id: 28, spot: nil, city: "Bad Nenndorf", country: "Germany"),
+            Location(id: 29, spot: "Mountain Dew Skatepark", city: "Lewiston, ID", country: "USA"),
+            Location(id: 30, spot: "Skatepark Bernau", city: "Bernau", country: "Deutschland")
         ]
     }
 }

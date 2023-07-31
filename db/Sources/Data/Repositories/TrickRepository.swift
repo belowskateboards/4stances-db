@@ -32,6 +32,7 @@ class TrickRepository {
             Trick(id: 28, name: "Dolphinflip"),
             Trick(id: 29, name: "FS 50-50"),
             Trick(id: 30, name: "Lateflip"),
+            Trick(id: 31, name: "Ollie BS Bodyvarial"),
         ]
     }
 }

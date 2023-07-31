@@ -54,6 +54,10 @@ class UserRepository {
             User(id: 50, name: "Marek Lück", instagram: "luecklich_", stance: .regular),
             User(id: 51, instagram: "instajonas.br", stance: .regular),
             User(id: 52, name: "Constantin Wurm", instagram: "mr.lateflip", stance: .regular),
+            User(id: 53, name: "Joel", instagram: "joelloee", stance: .regular),
+            User(id: 54, name: "Parker Wilson", instagram: "parkmo", stance: .regular),
+            User(id: 55, name: "Victor", instagram: "vctr.gsn", stance: .goofy),
+            User(id: 56, name: "Konrad", instagram: "corny_sb", stance: .goofy)
         ]
     }
 }
