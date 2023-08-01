@@ -58,6 +58,7 @@ class ClipRepository {
             Clip(id: 52,    trick: 10,  skater: 47, filmer: 48, location: 28,   date: "17.07.2023"),
             Clip(id: 53,    trick: 18,  skater: 1,  filmer: 13, location: 1,    date: "24.07.2023", tags: [.belowSkateboards]),
             Clip(id: 54,    trick: 12,  skater: 56, filmer: 56, location: 30,   date: "31.07.2023"),
+            Clip(id: 55,    trick: 10,  skater: 54, filmer: 54, location: 29,   date: "07.07.2023"),
         ]
     }
 }
